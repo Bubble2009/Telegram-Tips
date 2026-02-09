@@ -37,8 +37,12 @@ Vediamo un'altra schermata:
 ![1st Contact giuxfila](assets/Telegram_WEB_giuxfila_contact.jpg)
 
 In questo schermata, oltre alle informazioni viste prima, possiamo anche vedere che abbiamo 4 gruppi in comune.<br>
-Questa è già una indicazione molto importante.
+Questa è già una indicazione molto importante sulla veridicità dell'account, ma di seguito vedremo metodi più deterministici.
 
+Appena mi contatterà uno scammer, vi pubblicherò lo screenshot per farvi notare altre incongruietà.<br>
+Se vi dovesse capitare e mi voleste condividere lo screenshot, mi dareate una grande mano.
+
+Vediamo ora i metodi deterministici.
 
 ## L'**username**
 Penso che tutti (o quasi) abbiano sentito parlare dell'**username**.<br>
@@ -147,3 +151,8 @@ Guadare i gruppi che avete in comune, sono un indice della veridicità del conta
 Non basatevi solo su questa prova per controllare la veridicità di un account che vi contatta.
 
 ## Segnalare gli impostori
+Telegram mette a disposizione un bot ufficiale per segnalare gli account degli impostori.<br>
+Segnalare questi scammer è un dovere per la comunità.
+
+***
+[Qui per tornare all'elenco delle guide.](README.md)
