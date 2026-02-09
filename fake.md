@@ -153,6 +153,7 @@ Non basatevi solo su questa prova per controllare la veridicità di un account c
 ## Segnalare gli impostori
 Telegram mette a disposizione un bot ufficiale per segnalare gli account degli impostori.<br>
 Segnalare questi scammer è un dovere per la comunità.
+Vi esorto, pertanto, a segnalare eventuali impostori utilizzando il bot :link:[NoToScam](https://t.me/notoscam)
 
 ***
 [Qui per tornare all'elenco delle guide.](README.md)
