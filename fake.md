@@ -13,12 +13,32 @@ Voglio però informarvi che **è possibile difendersi da questi individui**.<br>
 Ora vi spiego come potete tutelarvi da questo tipo di truffa.<br>
 Vedremo tre tecniche, tutte e tre molto utili per identificare i truffatori:
 
+* [Primo contatto](#primo-contatto)
 * [L'**username**](#lusername)
 * [L'**ID**](#come-poter-visualizzare-lid-di-un-account-telegram-)
-* I gruppi
+* [I gruppi](#gruppi-in-comune)
+* [Segnalare gli impostori](#segnalare-gli-impostori)
 
 Dovete infatti sapere che su Telegram, l'**ID** e l'**username** sono assolutamente univoci. Vediamo quindi come utilizzare questi elementi a nostro vantaggio.<br>
 I gruppi in comune, invece, sono una indicazione veloce che potete avere, ma non è possibile avere una certezza.
+
+## Primo Contatto
+Recentemente Telegram ha introdotto un sistema di notifica per chi vi contatta per la prima volta.<br>
+Questa prima schermata ci aiuta moltissimo a capire se ci sta contattando un utente reale oppure un utente che vuole truffarci.<br>
+Vediamola insieme:
+
+![1st Contact Bubble](assets/Bubble_TelegramDesktop_Contact.jpg)
+
+Questa schermata appare solo la prima volta che un utente vi contatta ed oltretutto scompare dopo pochi giorni.<br>
+Al centro di questa schermata, potete vedere alcune informazioni, tra cui la nazione del numero di telefono che ho utilizzato per registrare il mio account, quando ho registrato l'account ed in questo caso poco altro.
+
+Vediamo un'altra schermata:
+
+![1st Contact giuxfila](assets/Telegram_WEB_giuxfila_contact.jpg)
+
+In questo schermata, oltre alle informazioni viste prima, possiamo anche vedere che abbiamo 4 gruppi in comune.<br>
+Questa è già una indicazione molto importante.
+
 
 ## L'**username**
 Penso che tutti (o quasi) abbiano sentito parlare dell'**username**.<br>
@@ -44,6 +64,14 @@ Uno scammer, infatti, potrebbe provare a falsificare l'**username** utilizzando 
 Provo a farvi un esempio: `Carlo` e `Car1o` possono sembrare molto simili, soprattutto se viene utilizzato un carattere più arrotondati.<br>
 Allo stesso modo, sfruttando sempre il solito sfortunato, uno scammer, al posto di  `CARLO` potrebbe provare a scrivere `CARL0`. Nell'esempio è molto marcata la differenza, ma se togliessi questa formattazione, CARLO e CARL0 diventerebbero molto simili.
 
+Quindi, confrontando l'**username** di chi vi ha contattato, con l'**username** del utente di cui siete sicuri dell'identità, potete scoprire se si tratta sicuramente di lui, oppure no.
+
+### Come trovare il vero **username** di un utente?
+Andate a cercare un suon messaggio in una chat in cui lo avete visto scrivere.<br>
+Possibilmente cercate un messaggio anche datato, perchè, il vostro ipotetico attaccante, potrebbe aver creato l'account "**clone**" e iniziato ad usarlo nei vari gruppi per mimetizzarsi. Se così fosse, però, si tratterebbe di messaggi recenti, perchè, altrimenti, sarebbe già stato segnalato, bannato e i suoi messaggi cancellati.
+
+C'è però un modo per fare la medesima verifica con solo numeri, togliendo così il problema di confondere le lettere.<br>
+Vediamo come:
 
 ## L'**ID**
 Come ho scritto sopra, per potervi registrare a Telegram, dovete inserire un numero di telefono, ma, **il vostro account**, in realtà, **non è il vostro numero di telefono**.<br>
@@ -85,22 +113,37 @@ Quella che segue è come vedete la normale videata di un contatto con applicativ
 
 ![Telegram](assets/Bubble_Telegram_Arrow.jpg)
 
-Quello che vedete indicato dalla freccia, è l'**username** che vedremo nel secondo punto. In questo caso, però, ci serve per identificare l'**ID** nel caso utilizziate l'applicazione standard di Telegram.
+Quello che vedete indicato dalla freccia, è l'**username** che vedremo nel secondo punto. In questo caso, però, ci serve per identificare l'**ID** nel caso utilizziate l'applicazione standard di Telegram.<br>
+Vi consiglierei di diffidare di chi contatta senza **username**. Un primo controllo, sarebbe quindi verificare se la persona **di cui sta copiando le sembianze** ha un **username**, avrete l'immediata conferma *che sia un account fake*.
 
-Intanto diffidate di chi vi contatta senza **ID**, ma, soprattutto, se la persona di cui sta copiando le sembianze ha un **ID**, avete l'immediata conferma *che sia un account fake*.
+Per verificare identificare l'**ID** vi consiglio di utilizzare il bot ***CaptainIDBot***. Vi suggerisco questo perchè è stato programmato da un utente noto nella comunità: [*Gιᥙsᥱρρᥱ "ᥲkᥲ" gιᥙxfιᥣᥲ*](https://t.me/giuxfila).
 
 Purtroppo ho fatto la triste scoperta che con Telegram standard, premendo sull'**username** questo non viene copiato come accade con client alternativi, pertanto dovete trascriverlo.
 
-Una volta trascritto, avviate il bot ***CaptainIDBot***, potete farlo contattandolo tramite username: [@CaptainIDBot](t.me/CaptainIDBot) oppure tramite link: :link:[t.me/CaptainIDBot](https://t.me/CaptainIDBot)
+Una volta trascritto, avviate il bot ***CaptainIDBot***, potete farlo contattandolo tramite username: [@CaptainIDBot](https://t.me/CaptainIDBot) oppure tramite link: :link:[t.me/CaptainIDBot](https://t.me/CaptainIDBot)
 
 Una volta Avviato il BOT, vi comparirà il Vs. nome Telegram ed il Vs. **ID** Telegram, ma quello che interessa a noi è quello che ci può dire interrogandolo.
 
-Se copiate un username (nel mio caso @Bubble_2009C) il Bot vi restituirà il mio **ID** 
+Se scrivete in chat un username (nel mio caso @Bubble_2009C) il Bot vi restituirà il suo **ID** 
 
 ![CaptainIDBot](assets/CaptainIDbot.jpg)
 
-Ora che in un modo o nell'altro abbiamo l'**ID** non ci resta che confrontarlo con l'utente che noi immaginiamo che ci stia contattando.
-Ovviamente dovete cercare quell'utente in un gruppo in cui siete sicuri che abbia scritto l'utente vero (e non il presunto clone).
+Ora che in un modo o nell'altro abbiamo l'**ID** non ci resta che confrontarlo con l'**ID** dell'utente che noi immaginiamo ci stia contattando.
+Ovviamente dovete cercare quell'utente in un gruppo in cui siete sicuri che abbia scritto l'utente vero (e non il presunto clone) ed eseguire la stessa operazione con ***CaptainIDBot***.
 
-Se i due **ID** corrispondono, allora potete avete la certezza che l'utente sia il medesimo.
+Se i due **ID** corrispondono, allora potete avete la certezza che l'utente sia il medesimo, diversamente bloccate e segnalate.
 
+Per capire dove cercare un messaggio dell'utente "*originale*" potete cercare nei gruppi che avete in comune:
+
+## Gruppi in Comune
+Sempre andando sui dettagli utente tramite Telegram, avete la possibilità di visionare i gruppi che avete in comune.<br>
+A cosa vi serve saperlo?<br>
+Partite da questo presupposto, siete nel gruppo ***PIPPO*** vi scrive uno che vi dice una cosa del genere:<br>
+        "*Sono del supporto tecnico di PIPPO, mi è stato affidato il tuo caso*"
+Ecco, un messaggio del genere è **SCAM al 99,9%**, se volete dare una minima possibilità al tipo, verificare i gruppi che avete in comune.<br>
+In pratica, se l'utente dice di essere del gruppo *PIPPO* e non lo vedere nel gruppo *PIPPO* allora bloccatelo immediatamente.
+
+Guadare i gruppi che avete in comune, sono un indice della veridicità del contatto, ma non sono una prova certa.<br>
+Non basatevi solo su questa prova per controllare la veridicità di un account che vi contatta.
+
+## Segnalare gli impostori
