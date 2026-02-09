@@ -13,7 +13,7 @@ Nel caso vogliate suggerirmi argomenti da affrontare, troverete in fondo tutti i
 Ecco gli argomenti che ho intenzione di affrontare un po' per volta.<br>
 Se a fianco dell'argomento trovare il simbolo :link: allora potete aprire la pagina dedicata, diversamente non ho ancora iniziato ad affrontare l'argomento.
 
-* :link: [Consigli per identificare utenti fake](ID.md) *(vediamo cos'è l'ID di un utente)*;
+* :link: [Consigli per identificare utenti fake](fake.md) *(vediamo come tutelarci dagli scam)*;
 * Prevenire il furto di account;
 * Inserire un username;
 * Alzare il livello di privacy del vostro account;
