@@ -1,4 +1,4 @@
-![Telegram Logo](assets/Telegram-Symbol-2577849191.png)
+![Telegram Logo](assets/Telegram-Symbol-2577849191.jpg)
 
 # Telegram, consigli per un utilizzo consapevole
 
