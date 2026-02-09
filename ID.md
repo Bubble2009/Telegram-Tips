@@ -73,4 +73,6 @@ Se copiate un username (nel mio caso @Bubble_2009C) il Bot vi restituirà il mio
 Ora che in un modo o nell'altro abbiamo l'**ID** non ci resta che confrontarlo con l'utente che noi immaginiamo che ci stia contattando.
 Ovviamente dovete cercare quell'utente in un gruppo in cui siete sicuri che abbia scritto l'utente vero (e non il presunto clone).
 
-Se i due **ID** corrispondono, allora potete stare tranquilli.
+Se i due **ID** corrispondono, allora potete avete la certezza che l'utente sia il medesimo.
+
+Vediamo ora la parte riguardante l'**username**.
