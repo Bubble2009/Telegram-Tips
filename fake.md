@@ -186,3 +186,6 @@ Vi esorto, pertanto, a segnalare eventuali impostori utilizzando il bot :link:[N
 
 ***
 [Qui per tornare all'elenco delle guide.](README.md)
+| | |
+| :------- | :--------: |
+|  Come sempre invito chiunque voglia commentare a farlo liberamente, accetto volentieri C&C che possano arricchire e/o correggere questo scritto.<br>Ho buttato tutto giù di getto, pertanto segnalatemi anche qualsiasi tipo di errore.<br><br> Per parlare con me di questa guida, unitevi al :link:[Gruppo Telegram ABC dl Bitcoin](https://t.me/+GlEaD0WD53BmNGE0).| [![QR](assets/qr-code_ABC.png)](https://t.me/+GlEaD0WD53BmNGE0) |
