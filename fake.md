@@ -8,7 +8,7 @@ Il numero di telefono, però, non viene mostrato (sempre che abbiate regolato be
 
 Quello che voi vedrete di un account sarà principalmente un *Nome* ed una *Immagine*, questo, però, fa si che si possano creare due (o più) account *quasi identici*.<br>
 Purtroppo, alcune entità malevoli, utilizzano questo escamotage per creare account che tentano di emularne altri.<br>
-In utile dire che chi crea questi account **lo fa solo e soltanto per scopi malevoli**; unicamente per cercare di sottrarvi qualcosa (soldi, dati personali, foto private o quant'altro).
+Inutile dire che chi crea questi account **lo fa solo e soltanto per scopi malevoli**; unicamente per cercare di sottrarvi qualcosa (soldi, dati personali, foto private o quant'altro).
 
 Voglio però informarvi che **è possibile difendersi da questi attori malevoli**.<br>
 Ora vi spiego come potete tutelarvi da questo tipo di truffa.<br>
@@ -101,7 +101,7 @@ Su Android, invece, ne esistono parecchie e molto valide, di seguito alcuni esem
     * secondo me uno dei migliore client Telegram mai esistiti, con solo due difetti:
         * non è open source
         * recentemente hanno introdotto delle pubblicità,<br>
-        quete ultime, però, sono facilmente bypassabili con TOR o con un :link:[AdBlock Open Source](https://github.com/AdAway/AdAway);
+        queste ultime, però, sono facilmente bypassabili con TOR o con un :link:[AdBlock Open Source](https://github.com/AdAway/AdAway);
 * :link:[NekoGram](https://github.com/Nekogram/Nekogram)
     * OpenSource da PlayStore, ma vi suggerisco di scaricarlo dal loro canale Telegram:
         * :link:[Aggiornamenti](https://t.me/nekoupdates)
@@ -150,7 +150,7 @@ Purtroppo ho fatto la triste scoperta che con Telegram standard, premendo sull'*
 
 Una volta trascritto, avviate il bot ***CaptainIDBot***. Potete farlo contattandolo tramite username: [@CaptainIDBot](https://t.me/CaptainIDBot) oppure tramite link: :link:[t.me/CaptainIDBot](https://t.me/CaptainIDBot).
 
-La prima volta che Avviate il BOT, vi comparirà il Vs. nome Telegram ed il Vs. **ID** Telegram, ma a non non initeressa il nostro **ID**, ma quello dell'interlocutore, vediamo come recuperarlo.
+La prima volta che Avviate il BOT, vi comparirà il Vs. nome Telegram ed il Vs. **ID** Telegram, ma a noi non interessa il nostro **ID**, ma quello dell'interlocutore, vediamo come recuperarlo.
 
 Se scrivete nella chat con il BOT un username (nel mio caso @Bubble_2009C) il Bot vi restituirà il suo **ID** come in questo esempio:
 
