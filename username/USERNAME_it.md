@@ -1,6 +1,6 @@
 ![Inserire username Telegram](assets/Telegram_username.png)
 
-# Telegram, creare e gestire Username.
+# Telegram, creare, gestire e utilizzare un **Username**.
 
 Telegram è un sistema di messaggistica che si basa su un numero di Telefono.<br>
 Questo vuol dire che per registrarvi, dovete inserire un numero di telefono valido.<br>
@@ -13,4 +13,5 @@ Appena vi registrate, al vostro account viene assegnato un **ID** numerico univo
 Questo codice numerico, però, nelle versioni standard di Telegram, non viene visualizzato e non c'è modo di utilizzarlo.<br>
 Telegram, però, ci permette di inserire uno **username** che sarà collegato in maniera univoca al nostro account.
 
-Impostare l'**username** è molto importante per variati motivi che ora vedremo
+Impostare l'**username** in telegram, e una buona pratica da imparare ad utilizzare. Telegram infatti non necessita di conoscere il numero di telefono dell'interlocutore per poter instaurare una chat.<b>
+Questo vuol dire che, anche incontrando dal vivo una persona, semplicemente comunicandogli il vostro username, potete entrare in contatto.<BR>
