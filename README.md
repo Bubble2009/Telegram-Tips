@@ -14,7 +14,7 @@ Ecco gli argomenti che ho intenzione di affrontare.<br>
 Quando a fianco dell'argomento trovare il simbolo :link:, significa che è già presente una guida. Per le altre, portate pazienza, arriveranno anche loro.
 
 ### Le Guide
-* :link: [Consigli per identificare utenti fake](fake.md) *(vediamo come tutelarci dagli scam)*;
+* :link: [Consigli per identificare utenti fake](fake/fake_it.md) *(vediamo come tutelarci dagli scam)*;
 * Prevenire il furto di account;
 * Inserire un username;
 * Alzare il livello di privacy del vostro account;

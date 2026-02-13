@@ -43,8 +43,8 @@ In questo schermata, oltre alle informazioni viste prima, possiamo anche vedere 
 Questi dati ci permettono di avere una buona panoramica di chi ci sta contattando, ma, da questi, difficilmente potremo identificare con certezza un attore malevolo.<br> 
 Di seguito vedremo metodi più deterministici.
 
-Appena mi contatterà uno scammer, vi pubblicherò lo screenshot per farvi notare altre incongruità.<br>
-Se vi dovesse capitare e mi voleste condividere lo screenshot, mi dareste una grande mano.
+Alla fine di questa pagina, ho messo un link ad un'altra pagina in cui riporterò tutte le videate di scammer che troverò, sia di account clonati che di scammer puri.<br>
+Se vi dovesse capitare e mi voleste condividere lo screenshot, mi dareste una grande mano ad arricchire questa guida.
 
 Vediamo ora alcuni metodi deterministici:
 
@@ -184,8 +184,12 @@ Segnalare questi scammer è **un dovere per la comunità**.
 
 Vi esorto, pertanto, a segnalare eventuali impostori utilizzando il bot :link:[NoToScam](https://t.me/notoscam)
 
+## Esempi di Scammer
+Come annunciato, ho creato una pagina in cui riporto le videate degli scammer che riesco a recuperare, di ognuna vi indicherò le incongruenze a cui dovete stare attenti.<br>
+:link:[Gli SCAMMER](Scammer_it.md)
+
 ***
-[Qui per tornare all'elenco delle guide.](README.md)
+[Qui per tornare all'elenco delle guide.](../README.md)
 | | |
 | :------- | :--------: |
-|  Come sempre invito chiunque voglia commentare a farlo liberamente, accetto volentieri C&C che possano arricchire e/o correggere questo scritto.<br>Ho buttato tutto giù di getto, pertanto segnalatemi anche qualsiasi tipo di errore.<br><br> Per parlare con me di questa guida, unitevi al :link:[Gruppo Telegram ABC dl Bitcoin](https://t.me/+GlEaD0WD53BmNGE0).| [![QR](assets/qr-code_ABC.png)](https://t.me/+GlEaD0WD53BmNGE0) |
+|  Come sempre invito chiunque voglia commentare a farlo liberamente, accetto volentieri C&C che possano arricchire e/o correggere questo scritto.<br>Ho buttato tutto giù di getto, pertanto segnalatemi anche qualsiasi tipo di errore.<br><br> Per parlare con me di questa guida, unitevi al :link:[Gruppo Telegram ABC dl Bitcoin](https://t.me/+GlEaD0WD53BmNGE0).| [![QR](../assets/qr-code_ABC.png)](https://t.me/+GlEaD0WD53BmNGE0) |
