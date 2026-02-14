@@ -76,6 +76,11 @@ Uno scammer, infatti, potrebbe provare a falsificare l'**username** utilizzando 
 Vi faccio  un esempio: `Carlo` e `Car1o` possono sembrare molto simili, soprattutto se viene utilizzato un carattere più arrotondati (Carlo e Car1o).<br>
 Allo stesso modo, sfruttando sempre il solito sfortunato utente, uno scammer, al posto di  `CARLO` potrebbe provare a scrivere `CARL0`. Nell'esempio è molto marcata la differenza, ma se togliessi questa formattazione, CARLO e CARL0 diventerebbero molto simili.
 
+    **ATTENZIONE !!**
+Una cosa a cui dovete prestare moltissima attenzione, è il campo in cui viene inserito l'**username**.<br>
+Uno Scammer, infatti, potrebbe utilizzare l'**username** corretto, ma inserito nel campo **Bio**.<br>
+Per questo motivo, nella guida su :link:[come inserire l'**username**](../username/USERNAME_it.md) specifico che è bene inserire qualcosa nel campo **Bio** in modo che se uno scammer volesse utilizzare quel campo per scrivere in modo fraudolento il vostro username, debba togliere qualche vostro dato che vi identifica.
+
 Quindi, confrontando l'**username** di chi vi ha contattato, con l'**username** del utente di cui siete sicuri dell'identità, potete scoprire se si tratta sicuramente di lui, oppure no, ma dovete fare molta attenzione ai caratteri visibilmente simili.
 
 ### Come trovare il vero **username** di un utente?
@@ -106,7 +111,7 @@ Su Android, invece, ne esistono parecchie e molto valide, di seguito alcuni esem
     * OpenSource da PlayStore, ma vi suggerisco di scaricarlo dal loro canale Telegram:
         * :link:[Aggiornamenti](https://t.me/nekoupdates)
         * :link:[Download APK](https://t.me/NekoTestAPKs)
-* :link:[ForkGram](https://github.com/forkgram/TelegramAndroid) aka `Fork Client` oppure anche `Telegram FOSS`
+* :link:[ForkGram](https://github.com/forkgram/TelegramAndroid) aka `Fork Client` (una volta era chiamato `Telegram FOSS`)
     * OpenSource, scaricabile da :link:[F-Droid](https://f-droid.org/packages/org.forkgram.messenger/);
     * Presenta pochissime differenze da quello "*ufficiale*" presente sul PlayStore
 * *other coming soon*
