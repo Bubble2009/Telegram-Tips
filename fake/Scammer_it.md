@@ -15,21 +15,20 @@ Ecco la prima videata.
 ![Scam Aramis](assets/SCAM_Aramis.jpeg)
 
 Vi contatta qualcuno che si che si fa passare per **🐾Aramis🐾**.<br>
-La vera **🐾Aramis🐾** è molto conosciuta nei mercatini di Telegram.<br>
-Se questo scammer vi contatta, è perchè probabilmente vi ha visto in quei mercatini.<br>
+Il  vero **🐾Aramis🐾** è attivo nei mercatini di Telegram.<br>
+Se questo scammer vi contatta, è perchè probabilmente vi ha visto interagire in quei mercatini.<br>
 
 In questa videata ci sono un po' di cose che vi devono mettere **IMMEDIATAMENTE** in allerta.<br>
 Vediamole insieme:
 1. La registrazione dell'account:<br>
 **Febbraio 2026** e vi contatta l'8 Febbraio. Un account nuovissimo.<br>
 **🐾Aramis🐾** bazzica i gruppi telegram sicuramente da molto prima di Febbraio 2026.<br>
-Già da questo possiamo capire che non ci sta contattando la vera **🐾Aramis🐾**;
+Già da questo possiamo capire che non vi sta contattando il vero **🐾Aramis🐾**;
 2. Nome e Foto aggiornate **1 minuto fa**:<br>
-Seconda cosa che ci fa capire che si tratta di un account SCAM.<br>
-**🐾Aramis🐾** ha come immagine (ProPic) quel grazioso coniglietto da tanto tempo;<br> pensate da quanto tempo vedete quell'utente con quella immagine profilo nei gruppi e arriverete a comprendere che chi ci contatta non è **🐾Aramis🐾**;
+Seconda cosa che vi fa capire che si tratta di un account SCAM.<br>
+**🐾Aramis🐾** ha come immagine (ProPic) quel grazioso coniglietto puccettoso che regge un bitcoin da tanto tempo;<br> pensate da quanto tempo vedete il presunto utente che vi contatta con quella immagine profilo nei gruppi e arriverete a comprendere che chi ci contatta non è **🐾Aramis🐾**;
 3. **🐾Aramis🐾** non fa da escrow nelle transazioni, quindi lo scammer vi sta proponendo un servizio che il vero utente non vi proporrà mai;
-4. **🐾Aramis🐾** è una fanciulla, non parlerebbe rivolgendosi a se stessa in modo maschile;
-5. **🐾Aramis🐾** ha telegram Premium, pertanto accanto al suo nome, viene visualizzata anche una emoji utilizzabile solo da chi ha un abbonamento premium attivo.<br>
+4. **🐾Aramis🐾** ha telegram Premium, pertanto accanto al suo nome, viene visualizzata anche una emoji utilizzabile solo da chi ha un abbonamento premium attivo.<br>
 ![Compare Name](assets/SCAM_Aramis_Compare.jpg)
 
 Questo è per farvi capire che, fin dalla prima videata, potete identificare uno scammer.<br>
