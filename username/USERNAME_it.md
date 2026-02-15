@@ -22,7 +22,7 @@ Telegram, però, ci permette di inserire, nel nostro profilo, uno **username** c
 Impostare l'**username** in Telegram, è una buona pratica che chiunque dovrebbe adottare.<br>
 Tramite l'**username**, potete essere contattati da una controparte che non conosce il vostro numero di telefono.
     
-    In questo modo, Telegram ci permette di dialogare in maniera pseudonimo.
+    In questo modo, Telegram ci permette di dialogare in maniera pseudonima.
 
 Questo è un assoluto beneficio per la nostra privacy.<cr>
 Per quanto il numero di telefono vi possa sembrare un dato assolutamente poco importante da tutelare, vi assicuro chè è bene proteggerlo.<br>
