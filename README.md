@@ -14,11 +14,13 @@ Ecco gli argomenti che ho intenzione di affrontare.<br>
 Quando a fianco dell'argomento trovare il simbolo :link:, significa che è già presente una guida. Per le altre, portate pazienza, arriveranno anche loro.
 
 ### Le Guide
-* :link: [Consigli per identificare utenti fake](fake/fake_it.md) *(vediamo come tutelarci dagli scam)*;
-* Prevenire il furto di account;
-* :link: [Inserire un username](username/USERNAME_it.md) nel vostro account Telegram;
-* Alzare il livello di privacy del vostro account;
-* Come evitare di esaurire lo spazio del telefono.
+* **Pubblicate**
+  * :link: [Consigli per identificare utenti fake](fake/fake_it.md) *(vediamo come tutelarci dagli scam)*;
+  * :link: [Inserire un username](username/USERNAME_it.md) nel vostro account Telegram;
+* **In lavorazione**
+  * Prevenire il furto di account;
+  * Alzare il livello di privacy del vostro account;
+  * Come evitare di esaurire lo spazio del telefono.
 
 ***
 | | |
