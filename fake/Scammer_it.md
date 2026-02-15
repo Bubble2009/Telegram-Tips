@@ -9,6 +9,11 @@ Dividerò in due gruppi le segnalazioni:
 ***
 ## Scammer che impersonano altri utenti
 
+### Aramis
+Ecco la prima videata.
+
+![Scam Aramis](assets/SCAM_Aramis.jpeg)
+
 ### Jj Oj
 Ecco la prima videata.
 
