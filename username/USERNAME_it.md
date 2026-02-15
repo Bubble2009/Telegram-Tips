@@ -13,13 +13,14 @@ Il numero di telefono, però, non viene mostrato (sempre che abbiate regolato be
 
 Il numero di telefono utilizzato per la registrazione, però, **non è il vostro account**, perchè voi potete anche aggiornare il numero associato a questo account Telegram, senza compromettere l'account.
 
-Appena vi registrate, al vostro account viene assegnato un **ID** numerico univoco. Questo codice numerico accompagnerà il vostro account fino a quando lo manterrete attivo.
+Appena vi registrate, al vostro account viene assegnato un **ID** numerico univoco. Questo codice numerico accompagnerà il vostro account fino a quando lo manterrete attivo.<br>
+Ammetto di non sapere se gli ID degli account dismessi, vengano riassegnati.
 
 Questo codice numerico, però, nelle versioni standard di Telegram, non viene visualizzato e non c'è modo di utilizzarlo.<br>
-Telegram, però, ci permette di inserire uno **username** che sarà collegato in maniera univoca al nostro account.
+Telegram, però, ci permette di inserire, nel nostro profilo, uno **username** che sarà collegato in maniera univoca all'account.
 
-Impostare l'**username** in Telegram, e una buona pratica che chiunque dovrebbe adottare.<br>
-Utilizzando Telegram, tramite l'username, potete aprire una chat senza conoscere il numero di telefono della controparte.
+Impostare l'**username** in Telegram, è una buona pratica che chiunque dovrebbe adottare.<br>
+Utilizzando Telegram, tramite l'**username**, potete aprire una chat senza conoscere il numero di telefono della controparte.
     
     In questo modo, Telegram ci permette di dialogare in maniera pseudonimo.
 
