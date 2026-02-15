@@ -14,29 +14,36 @@ Ecco la prima videata.
 
 ![Scam Aramis](assets/SCAM_Aramis.jpeg)
 
-### Jj Oj
-Ecco la prima videata.
-
-![Scam Jj Oj](assets/SCAM_Jj_Oj.jpg)
-
-Vi contatta questo individuo che si fa passare per **Jj Oj**.<br>
-Il vero **Jj Oj** è un utente molto conosciuto nei mercatini di Telegram.<br>
+Vi contatta qualcuno che si che si fa passare per **🐾Aramis🐾**.<br>
+La vera **🐾Aramis🐾** è molto conosciuta nei mercatini di Telegram.<br>
 Se questo scammer vi contatta, è perchè probabilmente vi ha visto in quei mercatini.<br>
-Ci sono tre cose in questa videata che ci devono mettere **IMMEDIATAMENTE** in allerta.
-1. La registrazione dell'account: **Gennaio 2026**<br>
-provate a pensare da quanto tempo vedete quell'utente nei gruppi.<br> **Jj Oj** sicuramente prima di Gennaio 2026.<br>
-Ecco il primo punto che ci fa capire che questo **non è Jj Oj** che ci contatta;
-2. Nome e Foto aggiornate **2 ore fa**<br>
+
+In questa videata ci sono un po' di cose che vi devono mettere **IMMEDIATAMENTE** in allerta.<br>
+Vediamole insieme:
+1. La registrazione dell'account:<br>
+**Febbraio 2026** e vi contatta l'8 Febbraio. Un account nuovissimo.<br>
+**🐾Aramis🐾** bazzica i gruppi telegram sicuramente da molto prima di Febbraio 2026.<br>
+Già da questo possiamo capire che non ci sta contattando la vera **🐾Aramis🐾**;
+2. Nome e Foto aggiornate **1 minuto fa**:<br>
 Seconda cosa che ci fa capire che si tratta di un account SCAM.<br>
-Ragionate da quanto tempo vedete quell'utente scrivere nei gruppi, ragionate da quanto tempo vedete quella foto relativa a quell'utente.<br>
-Altro indizio che ci fa capire che questo **non è Jj Oj**.
-2. Se conoscete il mercato Crypto, saprete benissimo che le fee sono sempre a favore di chi vende Cryptovaluta. Quella proposta è fatta unicamente per abbindolarvi.
+**🐾Aramis🐾** ha come immagine (ProPic) quel grazioso coniglietto da tanto tempo;<br> pensate da quanto tempo vedete quell'utente con quella immagine profilo nei gruppi e arriverete a comprendere che chi ci contatta non è **🐾Aramis🐾**;
+3. **🐾Aramis🐾** non fa da escrow nelle transazioni, quindi lo scammer vi sta proponendo un servizio che il vero utente non vi proporrà mai;
+4. **🐾Aramis🐾** è una fanciulla, non parlerebbe rivolgendosi a se stessa in modo maschile;
+5. **🐾Aramis🐾** ha telegram Premium, pertanto accanto al suo nome, viene visualizzata anche una emoji utilizzabile solo da chi ha un abbonamento premium attivo.<br>
+![Compare Name](assets/SCAM_Aramis_Compare.jpg)
 
-Appena un utente con queste incongruenze vi contatta, vo dovete fare lo screenshot della chat, del suo profilo, reperire il suo ID e poi:
+Questo è per farvi capire che, fin dalla prima videata, potete identificare uno scammer.<br>
+Se poi volete avere la completa certezza, potete effettuare i passaggi mostrati nella guida :link:[Riconoscere account Telegram Falsi](./fake_it.md)
 
-1. bloccare e segnalare
-2. avvisare l'utente reale che qualcuno stà cercando di emularlo
-3. dire all'utente reale di segnalare il furto di identità tramite il bot che abbiamo visto prima. :link:[NoToScam](https://t.me/notoscam)
+In questo specifico caso, il fatto che ci contatti un numero americano, potrebbe non essere significativo.<br>
+Molti amanti della privacy, infatti, utilizzano numeri "anonimi".<br>
+Vedremo in seguito come, in altri casi, questo, invece, sarà un fattore importante.
+
+Appena un utente con queste incongruenze vi contatta, dovete fare lo screenshot della chat, del suo profilo, reperire il suo ID e poi:
+
+1. bloccare e segnalare l'utente in questione con i tasti comparsi in alto nella chat;
+2. avvisare l'utente reale che qualcuno stà cercando di emularlo;
+3. invitare l'utente reale di segnalare il furto di identità tramite il bot :link:[NoToScam](https://t.me/notoscam) che abbiamo visto prima.
 
 ***
 ## Scammer che vogliono solo truffarvi
@@ -47,21 +54,22 @@ Vediamo questo profilo:
 
 ![Scam Stephanie](assets/Scam_Stephanie.jpg)
 
-Analizziamo le informazioni che ci appaiono e cerchiamo di capire cosa non torna in quello che vediamo.
-1. Esattamente come visto in precedenza, **nome e foto** aggiornate da pochissimo (2 giorni fa).<br>
-Altra cosa sospetta è che la foto non è visibile.<br>
-2. **USA**, la persona ha un numero americano.<br>
-Scrive alle 11, il che significa che in America sono le 5 sulle East Coast (New York) e le 3 sulla West Coast (Los Angeles).<br>
+Analizziamo le informazioni che ci appaiono e cerchiamo di capire cosa deve farci drizzare le orecchie in quello che vediamo:
+1. Esattamente come visto in precedenza, **nome e foto** sono state aggiornate da pochissimo (2 giorni fa).<br>
+Altra cosa sospetta è che la foto non è visibile, quindi possiamo supporre che la foto sia stata cancellata.<br>
+2. **USA**, la persona ha un numero americano e dice di contattarci dall'America.<br>
+Scrive alle ore 11 di mattina, ora Italiana, il che significa che in America sono le 5 sulle East Coast (New York) e le 3 sulla West Coast (Los Angeles).<br>
 Un orario molto sospetto a cui scrivere a qualcuno, non trovate?
 3. L'**incipit**. "*Mi hai bloccato*".<br>
-Se ho bloccato un contatto, come fa a scrivermi?<br>
+Se realmente avessi bloccato un contatto, questo non potrebbe scrivermi.<br>
 Ma soprattutto, se veramente mi conoscesse, perchè non chiamarmi per nome?
 
-Ora, se avete voglia di "*giocare*" un po' con lo scammer, provate a scrivergli un po', portandolo a tradirsi e a smascherarsi.<br>
-Diversamente bloccate e segnalate immediatamente, non state a perdere tempo.
+Ora, se avete voglia di "*giocare*" un po' con lo scammer, potete provare a rispondere per un po', portandolo a tradirsi e a smascherarsi da solo con delle incongruenze.<br>
+Se, invece, non avete tempo da perdere, bloccate e segnalate immediatamente.
 
 ***
-[Qui per tornare all'elenco delle guide.](../README.md)
+[Qui per tornare all'elenco delle guide.](../README.md)<br>
+Qui per tornare alla guida [Riconoscere account Telegram Falsi](./fake_it.md)
 | | |
 | :------- | :--------: |
 |  Come sempre invito chiunque voglia commentare a farlo liberamente, accetto volentieri C&C che possano arricchire e/o correggere questo scritto.<br>Ho buttato tutto giù di getto, pertanto segnalatemi anche qualsiasi tipo di errore.<br><br> Per parlare con me di questa guida, unitevi al Gruppo Telegram :link:[ABC del Bitcoin](https://t.me/+GlEaD0WD53BmNGE0).| [![QR](../assets/qr-code_ABC.png)](https://t.me/+GlEaD0WD53BmNGE0) |
