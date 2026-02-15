@@ -41,7 +41,7 @@ Vedremo in seguito come, in altri casi, questo, invece, sarà un fattore importa
 Appena un utente con queste incongruenze vi contatta, dovete fare lo screenshot della chat, del suo profilo, reperire il suo ID e poi:
 
 1. bloccare e segnalare l'utente in questione con i tasti comparsi in alto nella chat;
-2. avvisare l'utente reale che qualcuno stà cercando di emularlo;
+2. avvisare l'utente reale che qualcuno sta cercando di emularlo;
 3. invitare l'utente reale di segnalare il furto di identità tramite il bot :link:[NoToScam](https://t.me/notoscam) che abbiamo visto prima.
 
 ***
