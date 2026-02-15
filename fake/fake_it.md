@@ -43,8 +43,8 @@ In questo schermata, oltre alle informazioni viste prima, possiamo anche vedere 
 Questi dati ci permettono di avere una buona panoramica di chi ci sta contattando, ma, da questi, difficilmente potremo identificare con certezza un attore malevolo.<br> 
 Di seguito vedremo metodi più deterministici.
 
-Appena mi contatterà uno scammer, vi pubblicherò lo screenshot per farvi notare altre incongruità.<br>
-Se vi dovesse capitare e mi voleste condividere lo screenshot, mi dareste una grande mano.
+Alla fine di questa pagina, ho messo un link ad un'altra pagina in cui riporterò tutte le videate di scammer che troverò, sia di account clonati che di scammer puri.<br>
+Se vi dovesse capitare e mi voleste condividere lo screenshot, mi dareste una grande mano ad arricchire questa guida.
 
 Vediamo ora alcuni metodi deterministici:
 
@@ -76,6 +76,11 @@ Uno scammer, infatti, potrebbe provare a falsificare l'**username** utilizzando 
 Vi faccio  un esempio: `Carlo` e `Car1o` possono sembrare molto simili, soprattutto se viene utilizzato un carattere più arrotondati (Carlo e Car1o).<br>
 Allo stesso modo, sfruttando sempre il solito sfortunato utente, uno scammer, al posto di  `CARLO` potrebbe provare a scrivere `CARL0`. Nell'esempio è molto marcata la differenza, ma se togliessi questa formattazione, CARLO e CARL0 diventerebbero molto simili.
 
+    **ATTENZIONE !!**
+Una cosa a cui dovete prestare moltissima attenzione, è il campo in cui viene inserito l'**username**.<br>
+Uno Scammer, infatti, potrebbe utilizzare l'**username** corretto, ma inserito nel campo **Bio**.<br>
+Per questo motivo, nella guida su :link:[come inserire l'**username**](../username/USERNAME_it.md) specifico che è bene inserire qualcosa nel campo **Bio** in modo che se uno scammer volesse utilizzare quel campo per scrivere in modo fraudolento il vostro username, debba togliere qualche vostro dato che vi identifica.
+
 Quindi, confrontando l'**username** di chi vi ha contattato, con l'**username** del utente di cui siete sicuri dell'identità, potete scoprire se si tratta sicuramente di lui, oppure no, ma dovete fare molta attenzione ai caratteri visibilmente simili.
 
 ### Come trovare il vero **username** di un utente?
@@ -106,7 +111,7 @@ Su Android, invece, ne esistono parecchie e molto valide, di seguito alcuni esem
     * OpenSource da PlayStore, ma vi suggerisco di scaricarlo dal loro canale Telegram:
         * :link:[Aggiornamenti](https://t.me/nekoupdates)
         * :link:[Download APK](https://t.me/NekoTestAPKs)
-* :link:[ForkGram](https://github.com/forkgram/TelegramAndroid) aka `Fork Client` oppure anche `Telegram FOSS`
+* :link:[ForkGram](https://github.com/forkgram/TelegramAndroid) aka `Fork Client` (una volta era chiamato `Telegram FOSS`)
     * OpenSource, scaricabile da :link:[F-Droid](https://f-droid.org/packages/org.forkgram.messenger/);
     * Presenta pochissime differenze da quello "*ufficiale*" presente sul PlayStore
 * *other coming soon*
@@ -184,8 +189,12 @@ Segnalare questi scammer è **un dovere per la comunità**.
 
 Vi esorto, pertanto, a segnalare eventuali impostori utilizzando il bot :link:[NoToScam](https://t.me/notoscam)
 
+## Esempi di Scammer
+Come annunciato, ho creato una pagina in cui riporto le videate degli scammer che riesco a recuperare, di ognuna vi indicherò le incongruenze a cui dovete stare attenti.<br>
+:link:[Gli SCAMMER](Scammer_it.md)
+
 ***
-[Qui per tornare all'elenco delle guide.](README.md)
+[Qui per tornare all'elenco delle guide.](../README.md)
 | | |
 | :------- | :--------: |
-|  Come sempre invito chiunque voglia commentare a farlo liberamente, accetto volentieri C&C che possano arricchire e/o correggere questo scritto.<br>Ho buttato tutto giù di getto, pertanto segnalatemi anche qualsiasi tipo di errore.<br><br> Per parlare con me di questa guida, unitevi al :link:[Gruppo Telegram ABC dl Bitcoin](https://t.me/+GlEaD0WD53BmNGE0).| [![QR](assets/qr-code_ABC.png)](https://t.me/+GlEaD0WD53BmNGE0) |
+|  Come sempre invito chiunque voglia commentare a farlo liberamente, accetto volentieri C&C che possano arricchire e/o correggere questo scritto.<br>Ho buttato tutto giù di getto, pertanto segnalatemi anche qualsiasi tipo di errore.<br><br> Per parlare con me di questa guida, unitevi al Gruppo Telegram :link:[ABC del Bitcoin](https://t.me/+GlEaD0WD53BmNGE0).| [![QR](../assets/qr-code_ABC.png)](https://t.me/+GlEaD0WD53BmNGE0) |

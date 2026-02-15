@@ -14,15 +14,17 @@ Ecco gli argomenti che ho intenzione di affrontare.<br>
 Quando a fianco dell'argomento trovare il simbolo :link:, significa che è già presente una guida. Per le altre, portate pazienza, arriveranno anche loro.
 
 ### Le Guide
-* :link: [Consigli per identificare utenti fake](fake.md) *(vediamo come tutelarci dagli scam)*;
-* Prevenire il furto di account;
-* Inserire un username;
-* Alzare il livello di privacy del vostro account;
-* Come evitare di esaurire lo spazio del telefono.
+* **Pubblicate**
+  * :link: [Consigli per identificare utenti fake](fake/fake_it.md) *(vediamo come tutelarci dagli scam)*;
+  * :link: [Inserire un username](username/USERNAME_it.md) nel vostro account Telegram;
+* **In lavorazione**
+  * Prevenire il furto di account;
+  * Alzare il livello di privacy del vostro account;
+  * Come evitare di esaurire lo spazio del telefono.
 
 ***
 | | |
 | :------- | :--------: |
-|  Come sempre invito chiunque voglia commentare a farlo liberamente, accetto volentieri C&C che possano arricchire e/o correggere questo scritto.<br>Ho buttato tutto giù di getto, pertanto segnalatemi anche qualsiasi tipo di errore.<br><br> Per parlare con me di questa guida, unitevi al :link:[Gruppo Telegram ABC dl Bitcoin](https://t.me/+GlEaD0WD53BmNGE0).| [![QR](assets/qr-code_ABC.png)](https://t.me/+GlEaD0WD53BmNGE0) |
+|  Come sempre invito chiunque voglia commentare a farlo liberamente, accetto volentieri C&C che possano arricchire e/o correggere questo scritto.<br>Ho buttato tutto giù di getto, pertanto segnalatemi anche qualsiasi tipo di errore.<br><br> Per parlare con me di questa guida, unitevi al gruppo Telegram :link:[ABC del Bitcoin](https://t.me/+GlEaD0WD53BmNGE0).| [![QR](assets/qr-code_ABC.png)](https://t.me/+GlEaD0WD53BmNGE0) |
 
 
