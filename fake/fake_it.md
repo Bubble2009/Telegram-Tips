@@ -19,6 +19,7 @@ Vedremo alcune tecniche utili a identificare i truffatori:
 * [L'**ID**](#come-poter-visualizzare-lid-di-un-account-telegram-)
 * [I gruppi](#gruppi-in-comune)
 * [Segnalare gli impostori](#segnalare-gli-impostori)
+* [Vediamo insieme alcuni esempio di Scammer](#esempi-di-scammer)
 
 Infatti su  Telegram esistono alcuni dati univoci che vi permettono di identificare con sicurezza un utente: l'**ID** e l'**username**.<br>
 Questi due dati non sono assolutamente duplicabili e quindi possono essere utilizzati a nostro vantaggio.<br>
