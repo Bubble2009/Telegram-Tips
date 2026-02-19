@@ -49,7 +49,7 @@ Appena un utente con queste incongruenze vi contatta, dovete fare lo screenshot 
 
 ### Stephanie
 
-Vediamo questo profilo:
+Vediamo quest'altro utente:
 
 ![Scam Stephanie](assets/Scam_Stephanie.jpg)
 
@@ -65,6 +65,24 @@ Ma soprattutto, se veramente mi conoscesse, perchè non chiamarmi per nome?
 
 Ora, se avete voglia di "*giocare*" un po' con lo scammer, potete provare a rispondere per un po', portandolo a tradirsi e a smascherarsi da solo con delle incongruenze.<br>
 Se, invece, non avete tempo da perdere, bloccate e segnalate immediatamente.
+
+### Polat Koyuncu
+
+Vediamo questa chat:
+
+![Scan Polat](assets/SCAM_Polat.jpg)
+
+Questo profilo, all'apparenza non desta sospetti.<br>
+Le cose che possiamo notare sono:
+1. Il numero con cui è stata registrato l'account è Turco;
+2. L'account non è recente (ha già 6 anni);
+3. Non ci sono modifiche recenti alle foto o al nome;
+4. Ha un account premium attivo.
+
+Questo account non è immediatamente identificabile come scammer, anche se in realtà lo avevo intuito sin da subito.<br>
+Detto e  fatto, ha risposto al mio saluto chiedendomi da quanti anni seguo i mercati Crypto e, non avendo in questo periodo tempo da perdere, l'ho bloccato e segnalato subito.<br>
+Ho voluto comunque postare questo esempio per dimostrare che non sempre è immediatamente possibile identificare uno scammer.
+
 
 ***
 [Qui per tornare all'elenco delle guide.](../README.md)<br>
