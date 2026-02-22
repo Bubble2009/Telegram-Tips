@@ -11,9 +11,9 @@ In questa guida vedremo come mettere in sicurezza il vostro account Telegram.
     * consigli sulla [gestione di login secondari](#alcuni-consigli-per-la-gestione-dei-login-secondari);
     * gli [avvisi](#come-telegram-ci-avvisa-di-un-secondo-login) che vi informano di un secondo login.
 * [Mettere in sicurezza il vostro account](#come-tutelarvi)
-    * [proteggere il telefono](#proteggere-il-telefono);
-    * [proteggere l'accesso a Telegram](#proteggere-laccesso-a-telegram);
-    * [proteggere il login su un secondo device](#proteggere-il-login-su-un-secondo-device).
+    * proteggere [il telefono](#proteggere-il-telefono);
+    * proteggere [l'accesso a Telegram](#proteggere-laccesso-a-telegram);
+    * proteggere [il login su un secondo device](#proteggere-il-login-su-un-secondo-device).
 * [Altre impostazioni](#altre-impostazioni-di-sicurezza)
 
 ***
@@ -44,11 +44,12 @@ Quì vediamo come avvengono i passaggi utilizzando Nekogram.
 
 ![Login Nekogram Numero](./assets/Nekogram_Login_Number.jpg)
 
-Si vostri altri dispositivi su cui è presente quel profilo Telegram, arriverà un messaggio proprio da Telegram, contenente il codice da inserire per poter autorizzare il nuovo device.
+Sui vostri altri dispositivi su cui è presente quel profilo Telegram, arriverà un messaggio proveniente proprio da **Telegram**, contenente il codice da inserire per poter autorizzare il nuovo device.
 
-ATTENZIONE! Questo messaggio che riceverete, è un messaggio particolare.
-Innanzitutto nell'anteprima, il numero verrà censurato e dovrete entrare nella chat stessa per poterlo leggere.<br>
-In più, questo messaggio potrebbe non essere il primo della lista, infatti mi capita spesso di dover scorrere in basso per trovarlo.
+    ATTENZIONE! Questo messaggio che riceverete, è un messaggio particolare:
+    
+    1) nell'anteprima, il numero verrà censurato e dovrete entrare nella chat stessa per poterlo leggere;
+    2) questo messaggio potrebbe non essere il primo della lista, infatti mi capita spesso di dover scorrere in basso per trovarlo.
 
 ![Messaggio Codice](./assets/Login_Confirmation_code.jpg)
 
@@ -59,7 +60,7 @@ Una volta che avete attivato con quel codice il novo dispositivo, Telegram, nell
 
 ![Avviso Login](./assets/Login_Message.jpg)
 
-Questo messaggio arriverà su tutti i dispositivi su cui avete questo account, ma continua ad essere un messaggio speciale.<br>
+Questo messaggio arriverà su tutti i dispositivi su cui avete questo account, con le stesse caratteristiche del messaggio speciale viste prima.<br>
 Ammettiamo che voi abbiate un iPhone ed un Android ed ora state collegando un Tablet leggendo il messaggio sul vostro iPhone, anche se cancellate questo messaggio sul melafonino, quando prenderete in mano il device Android, lo ritroverete ancora presente e da leggere.
 
 In seguito vedremo come aggiungere ulteriore sicurezza con il 2FA.
@@ -68,36 +69,38 @@ In seguito vedremo come aggiungere ulteriore sicurezza con il 2FA.
 Se vi volete connettere il vostro account Telegram al vostro computer, dovete innanzitutto prepararlo eseguendo una delle due seguenti operazioni:
 
 1. Andare sul sito :link:[Telegram WEB](https://web.telegram.org/k/);
-2. scaricare l'applicazione :link[Telegram Desktop](https://desktop.telegram.org/web) disponibile per Windows, Linux e macOS.
+2. scaricare l'applicazione :link:[Telegram Desktop](https://desktop.telegram.org/web) disponibile per Windows, Linux e macOS.
     * su :link:[GitHub](https://github.com/telegramdesktop/tdesktop), però trovate anche altre versioni, ad esempio:
         * versione GNU/Linux compilabile<br> (senza dover infettare il sistema con Snap o Flatpak)
-        * :link[Unigram](https://github.com/UnigramDev/Unigram), un'altra versione FOSS di Telegram per Windows<br>
+        * :link:[Unigram](https://github.com/UnigramDev/Unigram), un'altra versione FOSS di Telegram per Windows<br>
         (scaricatela da GitHub, non dal Microsoft Store)
 
 Una volta eseguita questa operazione, il vostro computer vi mostrerà un QR code che dovrete inquadrare tramite l'applicazione Telegram che avete sul device mobile per poter accedere:
 
 ![QR Code](./assets/QR_CODE_WEB.jpg)
 
-Per accedere con il QR code, dovete avviare Telegram sul vostro dispositivo mobile ad andare su `Setting :arrow_right: Devices` e vi si aprirà la videata che avete visto sopra di cui riporto quì il dettaglio che ci interessa:
+Per accedere con il QR code, dovete avviare Telegram sul vostro dispositivo mobile ad andare su *Setting :arrow_right: Devices* e vi si aprirà la videata dei Device vista visto sopra di cui riporto quì il dettaglio che ci interessa:
 
 ![Login con QR](./assets/Telegram_QR_Link.png)
 
-Premendo quel pulsantone, si aprirà la fotocamera ed inquadrando quel QR code, avrete replicato il login sul computer.
+Premendo quel pulsantone, si aprirà la fotocamera ed inquadrando quel QR code, avrete evvettuato il login sul computer.
 
 Come potete vedere, sotto al QR code, ci sono altri due metodi di login:
 1. login con il numero di telefono;
 2. login con passkey.
 
-Del login con passkey, ne parleremo in seguito, del login con numero di telefono, ne ho parlato nel blocco precedente.
+Del login con passkey ne parleremo in seguito, del login con numero di telefono ne ho parlato nella sezione precedente.
 
-Non appena avrete fatto questo login, Telegram vi invierà invierà il messaggio di notifica come visto sopra, con le stesse modalità se avete più di un device collegato.
+Non appena avrete effettuato il login, Telegram vi invierà il messaggio di notifica come visto sopra, su tutti i device.
 
 ### Alcuni consigli per la gestione dei login secondari
 
 Telegram ci permette di impostare alcune limitazioni sui login secondari.<br>
-Principalmente sono due opzioni che vi suggerisco vivamente di impostare se decidete di gestire il vostro account su più dispositivi:
+Sono solo due opzioni, mac che vi suggerisco vivamente di impostare se decidete di gestire il vostro account su più dispositivi:
 * Ricezione chiamate
 * Chat segrete
+
+Vediamole nel dettaglio:
 
 ![setting on secondary login](./assets/Setting_2nd_login.jpg)
 
@@ -107,22 +110,21 @@ Ammesso che vogliate ricevere chiamate tramite Telegram, vi suggerisco di decide
 
     Chat Segrete
 
-Le chat segrete, quelle con crittografia end-to-end possono essere aperte su un unico dispositivo, ma non in istanze web.<br>
-Per evitare di andare a cercare su molteplici dispositivi una chat segreta, vi suggerisco vivamente di eleggere il dispositivo più sicuro, come unico dispositivo che può accettare **chat segrete**.
+Le chat segrete, quelle con crittografia end-to-end, possono essere aperte su un unico dispositivo, ma non in istanze web.<br>
+Per evitare di dover andare a cercare su molteplici dispositivi una chat segreta, vi suggerisco vivamente di eleggere il dispositivo più sicuro, come unico dispositivo che può accettare **chat segrete**.
 
     A proposito i login da browser WEB
 
 Se avete impostato che il vostro browser cancelli i cookie ad ogni avvio, dovrete ripetere ogni volta il login con QR code (come visto sopra), su Telegram, però, la sessione risulterà ancora attiva.<br>
 Il mio consiglio, prima di eccettuare un nuovo login web, è quello di terminare il precedente dall'elenco dei device autorizzati.
 
-
 ### Come Telegram ci avvisa di un secondo login
 
-Abbiamo già visto i messaggi che Telegram invia in chat privata in caso di un secondo login, ma se doveste perdervi questi, al successivo login su Telegram vi troverete davanti ad un messaggio similare:
+Abbiamo già visto i messaggi che Telegram invia in chat privata in caso di un secondo login, ma se doveste perdervi questi, al successivo login sul vecchio device su cui avete installato Telegram, vi troverete davanti ad un messaggio similare:
 
 ![Avviso login](./assets/2nd_login_message.jpg)
 
-Questo avvisto chiaro e lampante dovrebbe metterci in immediato allarme nel caso che un attore malevolo abbia avuto accesso al vostro account.<br>
+Questo avviso chiaro e lampante dovrebbe metterci in immediato allarme nel caso che un attore malevolo abbia avuto accesso al vostro account.<br>
 Nel caso non riconosceste questo login secondario, con la pressione della scritta **No, it's not me!** potete terminare immediatamente la sezione secondaria.
 
 ![Terminate alternative login](./assets/2nd_login_terminated.jpg)
@@ -131,11 +133,12 @@ Nel caso non riconosceste questo login secondario, con la pressione della scritt
 
 ## Come Tutelarvi
 
-Ho voluto farvi vedere come si può fare il login su un device secondario per farvi comprendere una cosa fondamentale:
+Ho voluto farvi vedere come si può effettuare il login su un device secondario per farvi comprendere che:
 
     Per poter fare un secondo accesso al vostro account, è necessario il vostro account principale.
 
-Quindi, tenendo al sicuro il vostro dispositivo, non dovreste correre alcun rischio, ma vediamo ora come tenerlo al sicuro.
+Quindi, tenere al sicuro il vostro dispositivo, è una cosa fondamentale per prevenire che un attore malevolo locale possa clonarvi l'account.<br>
+Vediamo quindi i passi base per mettervi in sicurezza.
 
 La messa in sicurezza del vostro account Telegram passa per tre punti:
 1. [proteggere il telefono](#proteggere-il-telefono);
@@ -146,7 +149,7 @@ Vediamo punto per punto il ***come** ed il **perchè***:
 
 ### Proteggere il telefono
 Perchè è importante proteggere il telefono?<br>
-Magari voi state pensando ad un furto di account da parte di un attore malevolo remoto, ma dobbiamo anche tutelarci da un eventuale attacco "fisico" al nostro account.
+Magari voi state pensando unicamente ad un furto di account da parte di un attore malevolo remoto, ma dobbiamo anche tutelarci da un eventuale attacco "fisico" al nostro account.
 
 Lasciare il telefono incustodito e non protetto, può comportare il furto di numerosi dati, tra cui anche il vostro account Telegram, pertanto:
 
@@ -159,18 +162,19 @@ Lasciare il telefono incustodito e non protetto, può comportare il furto di num
      * Sblocco con face id
 
 Oltre al telefono, va protetta anche la sim card con il pin.<br>
-Questo perchè, con qualche escamotage, è possibile attivare una seconda utenza di Telegram anche con un codice SMS, pertanto una attore malevolo potrebbe anche estrarre la vostra sim non protetta, inserirla in un altro telefono, ricevere il messaggio di conferma e poi reinserire la sim nel vostro telefono.
+Questo perchè, con qualche escamotage, è possibile attivare una seconda utenza di Telegram anche con un 2FA tramite codice SMS.
+Un attore malevolo, quindi,  potrebbe anche estrarre la vostra sim non protetta, inserirla in un altro telefono, ricevere il messaggio di conferma e poi reinserire la sim nel vostro telefono.
 
     Attenzione, questa è una precauzione importante anche per tutti quei 2FA che vi inviano un sms.
 
-Quindi, applicate una protezione **sia al vostro telefono che alla vostra sim** prima di passare al punto successivo.
+Applicate una protezione **sia al vostro telefono che alla vostra sim** prima di passare al punto successivo.
 
 ### Proteggere l'accesso a Telegram
-Molti telefoni prevedono un sistema per il blocco delle app, ma Telegram stesso ha questa feature ed è di questa che ora vi parlerò.
+Molti telefoni prevedono un sistema per il blocco delle app, ma Telegram stesso ha un sistema di protezione ed è di questa che ora vi parlerò.
 
-Visto che per attivare un secondo accesso è necessario operare con il vostro account, è necessario proteggerlo adeguatamente.
+Visto che per attivare un secondo accesso è necessario operare con il vostro account, è necessario che la vostra istanza Telegram sia adeguatamente protetta.
 
-Per abilitare il blocco nativo di Telegram è sufficiente andare in `Setting :arrow_right: Privacy & Security :arrow_right: Passcode Lock`<br>
+Per abilitare il blocco nativo di Telegram è sufficiente andare in *Setting :arrow_right: Privacy & Security :arrow_right: Passcode Lock*<br>
 Vi verrà chiesto di creare un codice di 4 cifre che servirà a sbloccare il vostro Telegram.
 
 ![Telegram Pass Code](./assets/Telegram_Passcode_Lock.jpg)
@@ -179,7 +183,7 @@ Nell'immagine sopra potete vedere tutti i passaggi necessari ad impostare il cod
 Dopo aver creato il codice sarà anche possibile impostare i seguenti parametri:
 1. sblocco con il sistema biometrico;
 2. lasso di tempo dopo il quale far intervenire il blocco;
-3. se sfocare il contenuto di Telegram durante il passaggio tra un0app e l'latra.
+3. se sfocare il contenuto di Telegram durante il passaggio tra un'app e l'altra.
 
 Lascio a voi decidere come impostare questi parametri, ricordando che lo sblocco biometrico è comunque meno sicuro del codice pin.
 
@@ -187,8 +191,8 @@ Ora che il Telefono e Telegram sono adeguatamente protetti, andiamo ad analizzar
 
 ### proteggere il login su un secondo device
 
-Ora andiamo ad attivare l'autenticazione a due fattori su Telegram.<br>
-Una delle ultime persone a cui ho fatto fare questo passaggio, mi ha detto che odiava il 2FA perchè richiede lunghe attese per poter fare il login.
+Andiamo ora ad attivare l'autenticazione a due fattori su Telegram.<br>
+Una delle ultime persone a cui ho fatto fare questo passaggio, ha affermato che "*odiava il 2FA perchè richiede lunghe tempistiche per l'accesso*.
 
 Non temete.<br>
 Non è il nostro caso.<br>
@@ -198,19 +202,19 @@ Telegram richiede il 2FA solamente in caso di nuovo login.
 
 Per abilitare il 2FA, dove seguire questa procedura:
 
-`Setting :arrow_right: Privacy & Security :arrow_right: Two Step Verification`
+*Setting :arrow_right: Privacy & Security :arrow_right: Two Step Verification*
 
 ![primi 4 step](./assets/2fa_stage_1.jpg)
 
-Ora, proseguendo, vi verranno chiesti questi dati:
+Proseguendo, vi verranno chiesti questi dati:
 
-* Una Password
-* Un suggerimento password (*facoltativo*)
-* una email di recovery
+* Una Password;
+* Un suggerimento password (*facoltativo*);
+* Una email di recovery.
 
 Alcune note su questi dati che vi vengono richiesti:
 * **Password**
-    * Questa password vi servirà quando dovrete fare un secondo login con questo account, potete anche generarne una casuale e tenerla al sicuro in un gestore di password visto che non credo che vi capiterà spesso di utilizzarla
+    * Questa password vi servirà quando dovrete effettuare un secondo login, potete anche generarne una casuale e tenerla al sicuro in un gestore di password dato supongo che questa sarà una operazione che non effettuerete spesso;
 * **email**
     * per garantire l'efficacia del 2FA, questa mail non dovrebbe essere facilmente reperibile dal vostro telefono, altrimenti, un attore malevolo, impadronitosi di un vostro telefono, avrebbe tutti i mezzi per rubarvi l'account
 
@@ -222,7 +226,6 @@ Come potete vedere, vi viene chiesto di confermare l'operazione con un codice ch
 Una volta confermato questo codice, finalmente il vostro account sarà protetto con l'autenticazione a due fattori.
 
 ![finish](./assets/2fa_done.jpg)
-
 
 ***
 Ora che il 2FA è attivo, quando effettuerete il login su un dispositivo secondario, vi verrà richiesto di inserire la password che avete impostato.
@@ -246,15 +249,15 @@ Potete anche attivarlo in maniera retroattiva.
 ### Passkey
 A proposito della passekey, iniziamo a chiarire alcuni punti:
 * Attualmente è gestita solo dalla versione stock di Telegram, i client alternativi che utilizzo, non la gestiscono;
-* attualmente mi è parso di capire che Telegram si possa interfacciare  solo con le app di gestione password di **iCloud** e di **Google** e se avete letto le mie altre guide, sapete cosa penso di queste entità.
+* Mi è parso di capire che, per il momento, Telegram si possa interfacciare solo con le app di gestione password di **iCloud** e di **Google** e, se avete letto le mie altre guide, sapete cosa penso di queste entità.
 
 ![Passkey](./assets/Telegram_passkey.jpg)
 
 Come vedete nell'immagine, Telegram non mi permette di attivare una passkey su un nuovo device collegato al vostro account.<br>
-La stessa cosa vale per il 2FA, questo, significa, che se il vostro account è stato compromesso, potete comunque provvedere a riprenderne il possesso prima se agite tempestivamente.
+La stessa cosa vale per il 2FA, questo, significa, che se il vostro account è stato compromesso, potete comunque provvedere a riprenderne il possesso se agite tempestivamente.
 
-L'ultima parte dell'immagine, mostra come un telefono Android con google integrato, vi proponga si usare **Google Password Manager** come gestore della vostra Passkey.<br>
-Oltre alla mia innata repulsione per queste bit tech, torneremmo al singolo punto di fallimento visto che avremmo sullo stesso device sia l'account Telegram che il nostro gestore di Passkey.
+L'ultima parte dell'immagine, mostra come un telefono Android **con google integrato**, vi proponga si usare **Google Password Manager** come gestore della vostra Passkey.<br>
+Oltre alla mia innata repulsione per queste big tech, con questo tipo di protezionem, torneremmo al singolo punto di fallimento visto che avremmo sullo stesso device sia l'account Telegram che il nostro gestore di Passkey.
 
 Per questo motivo, IO, ATTUALMENTE, NON USO PASSKEY!
 
