@@ -4,7 +4,7 @@
 
 In questa guida vedremo come mettere in sicurezza il vostro account Telegram.
 
-* [Introduzione](#intro) panoramica di Telegram;
+* [Introduzione](#intro) e panoramica di Telegram;
 * Come effettuare [un secondo login](#come-si-effettua-un-secondo-login) con la vostra utenza Telegram;
     * su un [dispositivo mobile](#login-su-un-altro-dispositivo-mobile-smartphone-o-tablet) secondario;
     * su [un computer](#login-su-computer-telegram-web-o-telegram-desktop) tramite weo o client desktop;
