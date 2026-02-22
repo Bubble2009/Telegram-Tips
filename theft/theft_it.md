@@ -249,19 +249,29 @@ Potete impostare un timer di auto cancellazione che avrà effetto su tutte le nu
 Potete anche attivarlo in maniera retroattiva.
 
 ### Passkey
-A proposito della passekey, iniziamo a chiarire alcuni punti:
-* Attualmente è gestita solo dalla versione stock di Telegram, i client alternativi che utilizzo, non la gestiscono;
-* Mi è parso di capire che, per il momento, Telegram si possa interfacciare solo con le app di gestione password di **iCloud** e di **Google** e, se avete letto le mie altre guide, sapete cosa penso di queste entità.
+La Passkey di Telegram, mi piace poco, ma per completezza ne faccio un accenno.
+
+Ecco due cose poco piacevoli sulla Passkey di Telegram:
+* Attualmente è gestita dalla versione stock di Telegram e da pochissimi client alternativi;
+* Telegram, per il momento, pare si possa interfacciare solo con le app di gestione password di **iCloud** e di **Google**.
 
 ![Passkey](./assets/Telegram_passkey.jpg)
 
-Come vedete nell'immagine, Telegram non mi permette di attivare una passkey su un nuovo device collegato al vostro account.<br>
-La stessa cosa vale per il 2FA, questo, significa, che se il vostro account è stato compromesso, potete comunque provvedere a riprenderne il possesso se agite tempestivamente.
+A comprova di questo, un telefono Android **con google integrato**, vi proponga si usare **Google Password Manager** come gestore della vostra Passkey.<br>
+Oltre alla mia innata repulsione per queste big tech, con questo tipo di protezione, torneremmo al singolo punto di fallimento visto che avremmo sullo stesso device sia l'account Telegram che il nostro gestore di Passkey.
 
-L'ultima parte dell'immagine, mostra come un telefono Android **con google integrato**, vi proponga si usare **Google Password Manager** come gestore della vostra Passkey.<br>
-Oltre alla mia innata repulsione per queste big tech, con questo tipo di protezionem, torneremmo al singolo punto di fallimento visto che avremmo sullo stesso device sia l'account Telegram che il nostro gestore di Passkey.
+Per questo motivo ATTUALMENTE, NON USO PASSKEY!
 
-Per questo motivo IO, ATTUALMENTE, NON USO PASSKEY!
+### Varie ed eventuali
+
+Questi accorgimenti di sicurezza che abbiamo visto fino ad ora, dovrebbero tutelarvi dal furto dell'account.<br>
+In ogni caso, se un attore malevolo dovesse riuscire ad effettuare un login nel vostro account, non sarebbe in modo di applicare queste impostazioni di sicurezza.<br>
+Telegram impedisce di attivare sia il 2FA che la passkey su un account appena creato.
+
+![New Account change Forbidden](./assets/Passkey_forbidden.jpg)
+
+Questo, significa, che anche se il vostro account se il vostro account venisse compromesso, potreste comunque provvedere a riprenderne il possesso agendo tempestivamente.<br>
+Se vi dovesse capitare, **contattatemi e vi aiuterò a riprenderne il controllo**.
 
 *** 
 
