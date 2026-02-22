@@ -16,7 +16,7 @@ Quando a fianco dell'argomento trovare il simbolo :link:, significa che è già 
 ### Le Guide
 * **Pubblicate**
   * :link: [Consigli per identificare utenti fake](fake/fake_it.md) *(vediamo come tutelarci dagli scam)*;
-  * :link: [Prevenire il furto di account](theft/theft.md);
+  * :link: [Prevenire il furto di account](theft/theft_it.md);
   * :link: [Inserire un username](username/USERNAME_it.md) nel vostro account Telegram;
 * **In lavorazione**
   * Alzare il livello di privacy del vostro account;
