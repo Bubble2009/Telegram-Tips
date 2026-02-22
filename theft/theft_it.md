@@ -142,9 +142,9 @@ Quindi, tenere al sicuro il vostro dispositivo, è una cosa fondamentale per pre
 Vediamo quindi i passi base per mettervi in sicurezza.
 
 La messa in sicurezza del vostro account Telegram passa per tre punti:
-1. [proteggere il telefono](#proteggere-il-telefono);
-2. [proteggere l'accesso a Telegram](#proteggere-laccesso-a-telegram);
-3. [proteggere il login su un secondo device](#proteggere-il-login-su-un-secondo-device).
+1. proteggere [il telefono](#proteggere-il-telefono);
+2. proteggere [l'accesso a Telegram](#proteggere-laccesso-a-telegram);
+3. proteggere [il login su un secondo device](#proteggere-il-login-su-un-secondo-device).
 
 Vediamo punto per punto il ***come** ed il **perchè***:
 
@@ -154,7 +154,8 @@ Magari voi state pensando unicamente ad un furto di account da parte di un attor
 
 Lasciare il telefono incustodito e non protetto, può comportare il furto di numerosi dati, tra cui anche il vostro account Telegram, pertanto:
 
-    Bisogna sempre proteggere il telefono con una adeguata protezione, in ordine di sicurezza, possiamo trovare i seguenti metodi:
+    Bisogna sempre proteggere il telefono con una adeguata protezione,
+    in ordine di sicurezza, possiamo trovare i seguenti metodi:
 
      * Password o passphrase
      * Codice pin numerico
@@ -260,7 +261,7 @@ La stessa cosa vale per il 2FA, questo, significa, che se il vostro account è s
 L'ultima parte dell'immagine, mostra come un telefono Android **con google integrato**, vi proponga si usare **Google Password Manager** come gestore della vostra Passkey.<br>
 Oltre alla mia innata repulsione per queste big tech, con questo tipo di protezionem, torneremmo al singolo punto di fallimento visto che avremmo sullo stesso device sia l'account Telegram che il nostro gestore di Passkey.
 
-Per questo motivo, IO, ATTUALMENTE, NON USO PASSKEY!
+Per questo motivo IO, ATTUALMENTE, NON USO PASSKEY!
 
 *** 
 
