@@ -153,7 +153,8 @@ Magari voi state pensando unicamente ad un furto di account da parte di un attor
 
 Lasciare il telefono incustodito e non protetto, può comportare il furto di numerosi dati, tra cui anche il vostro account Telegram, pertanto:
 
-    Bisogna sempre proteggere il telefono con una adeguata protezione, in ordine di sicurezza, possiamo trovare i seguenti metodi:
+    Bisogna sempre proteggere il telefono con una adeguata protezione,
+    in ordine di sicurezza, possiamo trovare i seguenti metodi:
 
      * Password o passphrase
      * Codice pin numerico
