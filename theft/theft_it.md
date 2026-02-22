@@ -141,9 +141,9 @@ Quindi, tenere al sicuro il vostro dispositivo, è una cosa fondamentale per pre
 Vediamo quindi i passi base per mettervi in sicurezza.
 
 La messa in sicurezza del vostro account Telegram passa per tre punti:
-1. [proteggere il telefono](#proteggere-il-telefono);
-2. [proteggere l'accesso a Telegram](#proteggere-laccesso-a-telegram);
-3. [proteggere il login su un secondo device](#proteggere-il-login-su-un-secondo-device).
+1. proteggere [il telefono](#proteggere-il-telefono);
+2. proteggere [l'accesso a Telegram](#proteggere-laccesso-a-telegram);
+3. proteggere [il login su un secondo device](#proteggere-il-login-su-un-secondo-device).
 
 Vediamo punto per punto il ***come** ed il **perchè***:
 
