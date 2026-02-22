@@ -19,7 +19,8 @@ In questa guida vedremo come mettere in sicurezza il vostro account Telegram.
 ***
 ## Intro
 
-Telegram, a differenza di WhatsApp, può essere installato su più dispositivi contemporaneamente.<br>
+Telegram, a differenza di WhatsApp, può essere installato su più dispositivi mobili contemporaneamente.<br>
+(WhatsApp può essere usato su telefono e computer, ma non su due telefoni)<br>
 I dispositivi aggiuntivi, non sono solo computer con applicazioni Web o Desktop, ma anche Telefoni e Tablet.<br>
 Uno stesso account può essere presente su svariati dispositivi contemporaneamente senza nemmeno mai richiedere la una conferma di riattivazione.
 
