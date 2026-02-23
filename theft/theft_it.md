@@ -7,7 +7,7 @@ In questa guida vedremo come mettere in sicurezza il vostro account Telegram.
 * [Introduzione](#intro) e panoramica di Telegram;
 * Come effettuare [un secondo login](#come-si-effettua-un-secondo-login) con la vostra utenza Telegram;
     * su un [dispositivo mobile](#login-su-un-altro-dispositivo-mobile-smartphone-o-tablet) secondario;
-    * su [un computer](#login-su-computer-telegram-web-o-telegram-desktop) tramite weo o client desktop;
+    * su [un computer](#login-su-computer-telegram-web-o-telegram-desktop) tramite web o client desktop;
     * consigli sulla [gestione di login secondari](#alcuni-consigli-per-la-gestione-dei-login-secondari);
     * gli [avvisi](#come-telegram-ci-avvisa-di-un-secondo-login) che vi informano di un secondo login.
 * [Mettere in sicurezza il vostro account](#come-tutelarvi)
@@ -22,7 +22,7 @@ In questa guida vedremo come mettere in sicurezza il vostro account Telegram.
 Telegram, a differenza di WhatsApp, può essere installato su più dispositivi mobili contemporaneamente.<br>
 (WhatsApp può essere usato su telefono e computer, ma non su due telefoni)<br>
 I dispositivi aggiuntivi, non sono solo computer con applicazioni Web o Desktop, ma anche Telefoni e Tablet.<br>
-Uno stesso account può essere presente su svariati dispositivi contemporaneamente senza nemmeno mai richiedere la una conferma di riattivazione.
+Uno stesso account può essere presente su svariati dispositivi contemporaneamente senza nemmeno mai richiedere una conferma di riattivazione.
 
 ![Multi Login](./assets/Telegram_login_multipli.png)
 
@@ -34,7 +34,7 @@ Come vedete nell'esempio sopra, è stato impostato 6 mesi, dopo di che il sistem
 ## Come si effettua un secondo login
 
 È bene vedere come funziona il login su un secondo device, per capire cosa deve fare un ladro per accedere al vostro account.<br>
-Dipendentemente dal dispositivo su cui fare il login, ci sarà una procedura differente.
+Indipendentemente dal dispositivo su cui fare il login, ci sarà una procedura differente.
 
 ### Login su un altro dispositivo mobile (Smartphone o Tablet)
 
@@ -57,7 +57,7 @@ Sui vostri altri dispositivi su cui è presente quel profilo Telegram, arriverà
 Già nel messaggio che ci invia Telegram, ci avvisa che potrebbe essere qualcun altro ad aver richiesto questo codice.<br>
 Ma questo lo vedremo meglio dopo.
 
-Una volta che avete attivato con quel codice il novo dispositivo, Telegram, nella stessa chat di prima, vi invierà un avviso inerente a questo nuovo login.
+Una volta che avete attivato con quel codice il nuovo dispositivo, Telegram, nella stessa chat di prima, vi invierà un avviso inerente a questo nuovo login.
 
 ![Avviso Login](./assets/Login_Message.jpg)
 
@@ -265,12 +265,12 @@ Per questo motivo ATTUALMENTE, NON USO PASSKEY!
 ### Varie ed eventuali
 
 Questi accorgimenti di sicurezza che abbiamo visto fino ad ora, dovrebbero tutelarvi dal furto dell'account.<br>
-In ogni caso, se un attore malevolo dovesse riuscire ad effettuare un login nel vostro account, non sarebbe in modo di applicare queste impostazioni di sicurezza.<br>
+In ogni caso, se un attore malevolo dovesse riuscire ad effettuare un login nel vostro account, non sarebbe in grado di applicare queste impostazioni di sicurezza.<br>
 Telegram impedisce di attivare sia il 2FA che la passkey su un account appena creato.
 
 ![New Account change Forbidden](./assets/Passkey_forbidden.jpg)
 
-Questo, significa, che anche se il vostro account se il vostro account venisse compromesso, potreste comunque provvedere a riprenderne il possesso agendo tempestivamente.<br>
+Questo, significa, che anche se il vostro account venisse compromesso, potreste comunque provvedere a riprenderne il possesso agendo tempestivamente.<br>
 Se vi dovesse capitare, **contattatemi e vi aiuterò a riprenderne il controllo**.
 
 *** 
