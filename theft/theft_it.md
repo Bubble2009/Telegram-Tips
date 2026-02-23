@@ -34,7 +34,7 @@ Come vedete nell'esempio sopra, è stato impostato 6 mesi, dopo di che il sistem
 ## Come si effettua un secondo login
 
 È bene vedere come funziona il login su un secondo device, per capire cosa deve fare un ladro per accedere al vostro account.<br>
-Dipendentemente dal dispositivo su cui fare il login, ci sarà una procedura differente.
+A seconda del tipo di dispositivo su cui fare il login, ci sarà una procedura differente.
 
 ### Login su un altro dispositivo mobile (Smartphone o Tablet)
 
