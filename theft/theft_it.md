@@ -26,14 +26,14 @@ Uno stesso account può essere presente su svariati dispositivi contemporaneamen
 
 ![Multi Login](./assets/Telegram_login_multipli.png)
 
-E' però possibile inserire un logout automatico dopo un determinato lasso di tempo dall'ultimo login.<br>
+È però possibile inserire un logout automatico dopo un determinato lasso di tempo dall'ultimo login.<br>
 Come vedete nell'esempio sopra, è stato impostato 6 mesi, dopo di che il sistema disconnetterà quel device.
 
 ***
 
 ## Come si effettua un secondo login
 
-E' bene vedere come funziona il login su un secondo device, per capire cosa deve fare un ladro per accedere al vostro account.<br>
+È bene vedere come funziona il login su un secondo device, per capire cosa deve fare un ladro per accedere al vostro account.<br>
 Dipendentemente dal dispositivo su cui fare il login, ci sarà una procedura differente.
 
 ### Login su un altro dispositivo mobile (Smartphone o Tablet)
@@ -54,7 +54,7 @@ Sui vostri altri dispositivi su cui è presente quel profilo Telegram, arriverà
 
 ![Messaggio Codice](./assets/Login_Confirmation_code.jpg)
 
-Già nel messaggio che ci invia telegram, ci avvisa che potrebbe essere qualcun altro ad aver richiesto questo codice.<br>
+Già nel messaggio che ci invia Telegram, ci avvisa che potrebbe essere qualcun altro ad aver richiesto questo codice.<br>
 Ma questo lo vedremo meglio dopo.
 
 Una volta che avete attivato con quel codice il novo dispositivo, Telegram, nella stessa chat di prima, vi invierà un avviso inerente a questo nuovo login.
@@ -84,7 +84,7 @@ Per accedere con il QR code, dovete avviare Telegram sul vostro dispositivo mobi
 
 ![Login con QR](./assets/Telegram_QR_Link.png)
 
-Premendo quel pulsantone, si aprirà la fotocamera ed inquadrando quel QR code, avrete evvettuato il login sul computer.
+Premendo quel pulsantone, si aprirà la fotocamera ed inquadrando quel QR code, avrete effettuato il login sul computer.
 
 Come potete vedere, sotto al QR code, ci sono altri due metodi di login:
 1. login con il numero di telefono;
@@ -97,7 +97,7 @@ Non appena avrete effettuato il login, Telegram vi invierà il messaggio di noti
 ### Alcuni consigli per la gestione dei login secondari
 
 Telegram ci permette di impostare alcune limitazioni sui login secondari.<br>
-Sono solo due opzioni, mac che vi suggerisco vivamente di impostare se decidete di gestire il vostro account su più dispositivi:
+Sono solo due opzioni, ma che vi suggerisco vivamente di impostare se decidete di gestire il vostro account su più dispositivi:
 * Ricezione chiamate
 * Chat segrete
 
@@ -146,10 +146,10 @@ La messa in sicurezza del vostro account Telegram passa per tre punti:
 2. proteggere [l'accesso a Telegram](#proteggere-laccesso-a-telegram);
 3. proteggere [il login su un secondo device](#proteggere-il-login-su-un-secondo-device).
 
-Vediamo punto per punto il ***come** ed il **perchè***:
+Vediamo punto per punto il ***come** ed il **perché***:
 
 ### Proteggere il telefono
-Perchè è importante proteggere il telefono?<br>
+perché è importante proteggere il telefono?<br>
 Magari voi state pensando unicamente ad un furto di account da parte di un attore malevolo remoto, ma dobbiamo anche tutelarci da un eventuale attacco "fisico" al nostro account.
 
 Lasciare il telefono incustodito e non protetto, può comportare il furto di numerosi dati, tra cui anche il vostro account Telegram, pertanto:
@@ -164,7 +164,7 @@ Lasciare il telefono incustodito e non protetto, può comportare il furto di num
      * Sblocco con face id
 
 Oltre al telefono, va protetta anche la sim card con il pin.<br>
-Questo perchè, con qualche escamotage, è possibile attivare una seconda utenza di Telegram anche con un 2FA tramite codice SMS.
+Questo perché, con qualche escamotage, è possibile attivare una seconda utenza di Telegram anche con un 2FA tramite codice SMS.
 Un attore malevolo, quindi,  potrebbe anche estrarre la vostra sim non protetta, inserirla in un altro telefono, ricevere il messaggio di conferma e poi reinserire la sim nel vostro telefono.
 
     Attenzione, questa è una precauzione importante anche per tutti quei 2FA che vi inviano un sms.
@@ -194,7 +194,7 @@ Ora che il Telefono e Telegram sono adeguatamente protetti, andiamo ad analizzar
 ### proteggere il login su un secondo device
 
 Andiamo ora ad attivare l'autenticazione a due fattori su Telegram.<br>
-Una delle ultime persone a cui ho fatto fare questo passaggio, ha affermato che "*odiava il 2FA perchè richiede lunghe tempistiche per l'accesso*.
+Una delle ultime persone a cui ho fatto fare questo passaggio, ha affermato che "*odiava il 2FA perché richiede lunghe tempistiche per l'accesso*.
 
 Non temete.<br>
 Non è il nostro caso.<br>
@@ -216,7 +216,7 @@ Proseguendo, vi verranno chiesti questi dati:
 
 Alcune note su questi dati che vi vengono richiesti:
 * **Password**
-    * Questa password vi servirà quando dovrete effettuare un secondo login, potete anche generarne una casuale e tenerla al sicuro in un gestore di password dato supongo che questa sarà una operazione che non effettuerete spesso;
+    * Questa password vi servirà quando dovrete effettuare un secondo login,<br> se non avete esigenze quotidiane di effettuare un secondo login, potete anche generare una password casuale e tenerla al sicuro in un gestore di password;
 * **email**
     * per garantire l'efficacia del 2FA, questa mail non dovrebbe essere facilmente reperibile dal vostro telefono, altrimenti, un attore malevolo, impadronitosi di un vostro telefono, avrebbe tutti i mezzi per rubarvi l'account
 
