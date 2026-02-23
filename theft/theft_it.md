@@ -260,7 +260,7 @@ Ecco due cose poco piacevoli sulla Passkey di Telegram:
 A comprova di questo, un telefono Android **con google integrato**, vi propone di usare **Google Password Manager** come gestore della vostra Passkey.<br>
 Oltre alla mia innata repulsione per queste big tech, con questo tipo di protezione, torneremmo al singolo punto di fallimento visto che avremmo sullo stesso device sia l'account Telegram che il nostro gestore di Passkey.
 
-Per questo motivo ATTUALMENTE, NON USO PASSKEY!
+Per questo motivo ATTUALMENTE, NON USO PASSKEY su Telegram!
 
 ### Varie ed eventuali
 
