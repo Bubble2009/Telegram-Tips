@@ -232,6 +232,8 @@ Una volta confermato questo codice, finalmente il vostro account sarà protetto 
 ***
 Ora che il 2FA è attivo, quando effettuerete il login su un dispositivo secondario, vi verrà richiesto di inserire la password che avete impostato.
 
+![Login PasswordRequest](./assets/Telegram_WEB_Password_rfq.jpg)
+
 ***
 
 ## Altre impostazioni di sicurezza
