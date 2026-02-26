@@ -77,7 +77,7 @@ Uno scammer, infatti, potrebbe provare a falsificare l'**username** utilizzando 
 Vi faccio  un esempio: `Carlo` e `Car1o` possono sembrare molto simili, soprattutto se viene utilizzato un carattere più arrotondati (Carlo e Car1o).<br>
 Allo stesso modo, sfruttando sempre il solito sfortunato utente, uno scammer, al posto di  `CARLO` potrebbe provare a scrivere `CARL0`. Nell'esempio è molto marcata la differenza, ma se togliessi questa formattazione, CARLO e CARL0 diventerebbero molto simili.
 
-    **ATTENZIONE !!**
+### **ATTENZIONE !!**
 Una cosa a cui dovete prestare moltissima attenzione, è il campo in cui viene inserito l'**username**.<br>
 Uno Scammer, infatti, potrebbe utilizzare l'**username** corretto, ma inserito nel campo **Bio**.<br>
 Per questo motivo, nella guida su :link:[come inserire l'**username**](../username/USERNAME_it.md) specifico che è bene inserire qualcosa nel campo **Bio** in modo che se uno scammer volesse utilizzare quel campo per scrivere in modo fraudolento il vostro username, debba togliere qualche vostro dato che vi identifica.
