@@ -103,18 +103,29 @@ Ci sono, però, tante altre app che, utilizzando le API di Telegram, offrono una
 Onestamente parlando, però, non so dirvi se queste app esistono anche dell'ecosistema della mela morsicata!<br>
 Su Android, invece, ne esistono parecchie e molto valide, di seguito alcuni esempi (che aggiornerò nel tempo):
 
+* :link:[Mercurygram](https://github.com/Mercurygram/Mercurygram)
+    * La migliore applicazione FOSS per Telegram; dal codice del mitico Timothy, dalla release 12.7.3.3 integra un accesso a TOR per anonimizzare i collegamenti.<br>
+    Cosa aggiungere ancora su questa app?
+        * :link:[Gruppo di supporto](https://t.me/Mercurygram) :EN: su Telegram;
+        * Una delle poche app che potete trovare su F-Droid firmate dallo sviluppatore anziché da F-Droid;
+        * Potete aggiungerla tramite Obitanium;
+        * Aggiornamenti in app (OTA);
+
 * :link:[Plus Messenger](https://play.google.com/store/apps/details?id=org.telegram.plus&hl=en-US)
     * secondo me uno dei migliore client Telegram mai esistiti, con solo due difetti:
         * non è open source
         * recentemente hanno introdotto delle pubblicità,<br>
         queste ultime, però, sono facilmente bypassabili con TOR o con un :link:[AdBlock Open Source](https://github.com/AdAway/AdAway);
+
 * :link:[NekoGram](https://github.com/Nekogram/Nekogram)
     * OpenSource da PlayStore, ma vi suggerisco di scaricarlo dal loro canale Telegram:
         * :link:[Aggiornamenti](https://t.me/nekoupdates)
         * :link:[Download APK](https://t.me/NekoTestAPKs)
+
 * :link:[ForkGram](https://github.com/forkgram/TelegramAndroid) aka `Fork Client` (una volta era chiamato `Telegram FOSS`)
     * OpenSource, scaricabile da :link:[F-Droid](https://f-droid.org/packages/org.forkgram.messenger/);
     * Presenta pochissime differenze da quello "*ufficiale*" presente sul PlayStore
+    
 * *other coming soon*
 
 Con queste App, andando sul profilo di un utente, oltre ai soliti dati, vedrete anche l'**ID**.<br>
@@ -196,6 +207,7 @@ Come annunciato, ho creato una pagina in cui riporto le videate degli scammer ch
 
 ***
 :link:[Qui per tornare all'elenco delle guide.](../README.md)
-| | |
-| :------- | :--------: |
+---
 |  Come sempre invito chiunque voglia commentare a farlo liberamente, accetto volentieri C&C che possano arricchire e/o correggere questo scritto.<br>Ho buttato tutto giù di getto, pertanto segnalatemi anche qualsiasi tipo di errore.<br><br> Per parlare con me di questa guida, unitevi al Gruppo Telegram :link:[ABC del Bitcoin](https://t.me/+GlEaD0WD53BmNGE0).| [![QR](../assets/qr-code_ABC.png)](https://t.me/+GlEaD0WD53BmNGE0) |
+| :------- | :--------: |
+
